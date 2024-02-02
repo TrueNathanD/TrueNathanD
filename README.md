@@ -1,7 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-<!--
-**TrueNathanD/TrueNathanD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **TrueNathanD/TrueNathanD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +11,39 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+<h2 align="center">Nathan here.</h2>
+<table width="100%" align="center">
+  <tr>
+    <td colspan="3" align="center">About Me</td>
+    <td colspan="3" align="center">Goal Projects</td>
+    <td colspan="3" align="center">Project Counter</td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <br>
+      <p>Full-Stack Dev</p>
+      <br>
+      <p>JavaScript × SQL <br>Python × C# × C++ × Java × Go</p>
+      <br>
+    </td>
+    <td colspan="3" align="center">
+      <p>Low-To-No-Cost XRP Escrow Service 🤖🏪</p>
+      <p>Automation-Based Long-Term Care 🤖💓</p>
+      <p>One & Done Food Sustainability 🤖🐣</p>
+      <p>Scalable Cross-Industry Automation 🤖🥪</p>
+    </td>
+    <td colspan="3" align="center">
+      <p><b>5</b></p>
+    </td>
+  </tr>
+</table>
+
+#
+| ![Stats GIF](https://media.tenor.com/mZPdzNxQR3kAAAAC/idiocracy-i-dont-know.gif=350x350) | [![Twitter Followers](https://img.shields.io/twitter/follow/TrueNathanD?label=TrueNathanD&style=social)](https://twitter.com/TrueNathanD) <br> [![Instagram Page](https://img.shields.io/badge/TrueNathanD-white?style=flat&logo=instagram)](https://www.instagram.com/truenathand/) <br> [![Facebook Page](https://img.shields.io/badge/TrueNathanD-white?style=flat&logo=facebook)](https://www.facebook.com/truenathand) <br> [![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/TrueNathan?label=TrueNathan&style=social)](https://www.reddit.com/user/TrueNathan)<br> [![freeCodeCamp Points](https://img.shields.io/freecodecamp/points/truenathand?label=TrueNathanD&logo=freecodecamp&style=social)](https://www.freecodecamp.org/TrueNathanD) <br> [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCUZKOXAXf1sqII9P5yojcJA?label=TrueNathanD&style=social)](https://www.youtube.com/channel/UCUZKOXAXf1sqII9P5yojcJA) <br> [![Steam Page](https://img.shields.io/badge/TrueNathanD-white?style=flat&logoColor=darkblue&logo=steam)](https://steamcommunity.com/id/TrueNathanD/) | ![Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TrueNathanD&theme=blue-green&langs_count=5) <br> [![Codewars Ranking](https://www.codewars.com/users/TrueNathanD/badges/large)](https://www.codewars.com/users/TrueNathanD)  |
+| :---: | :---: | :---: |
+| ![XRP Price GIF](https://media.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif) | [![CoinCap XRP Price](https://img.shields.io/coincap/price-usd/xrp?label=Price&logo=xrp&logoColor=green&style=social)](https://coincap.io/assets/xrp) [![CoinCap XRP 24 Hour Change](https://img.shields.io/coincap/change-percent-24hr/xrp?label=24%20Hour%20Change&logo=xrp&logoColor=blue&style=social)](https://coincap.io/assets/xrp) [![CoinCap XRP Market Cap Rank](https://img.shields.io/coincap/rank/xrp?label=Rank&logo=xrp&logoColor=purple&style=social)](https://coincap.io/assets/xrp) | ![Social Media GIF](https://media.tenor.com/wq507F3Pn3YAAAAd/the-it-crowd-it-crowd.gif) |
+
+<!-- Only the real ones see this. -->
+
